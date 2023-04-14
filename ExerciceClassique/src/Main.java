@@ -1,5 +1,7 @@
+import java.io.IOException;
+
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
 
         //Renverser une chaîne de caractères
         String chaine = "Bonjour";
@@ -18,5 +20,9 @@ public class Main {
         //Nombre des mots dans une phrase
         System.out.printf("\nNombre de mot\n");
         NombreDeMot.nombreDesMots("Bonjour Yaya, tu vas bien ?");
+
+        //Sauvegarder Phrase
+        System.out.printf("\nSauvegarder une Phrase\n");
+        SauvegarderPhrase.sauvegarde();
     }
 }

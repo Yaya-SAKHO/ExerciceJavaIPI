@@ -15,6 +15,7 @@
       <change afterPath="$PROJECT_DIR$/src/NombreDeMot.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Pyramide.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/RenverserChaine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SauvegarderPhrase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,11 +62,22 @@
       <option name="presentableId" value="Default" />
       <updated>1681499734530</updated>
       <workItem from="1681499735734" duration="600000" />
-      <workItem from="1681500572999" duration="1145000" />
+      <workItem from="1681500572999" duration="1317000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
