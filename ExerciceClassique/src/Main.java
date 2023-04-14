@@ -24,5 +24,13 @@ public class Main {
         //Sauvegarder Phrase
         System.out.printf("\nSauvegarder une Phrase\n");
         SauvegarderPhrase.sauvegarde();
+
+        //Lire du texte dans un fichier et compter le nombre de mots contenu
+        System.out.printf("\ncompter le nombre de mots dans un fichier\n");
+        NombreMotDansFichier.compteMotDansFichier(args);
+
+        //SommeNombre
+        System.out.printf("\nSomme de nombre\n");
+       SommeDe1000.somme();
     }
 }
