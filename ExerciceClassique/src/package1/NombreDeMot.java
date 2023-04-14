@@ -1,3 +1,5 @@
+package package1;
+
 public class NombreDeMot {
     public static void nombreDesMots(String chaine)
     {

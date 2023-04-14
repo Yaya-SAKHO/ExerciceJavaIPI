@@ -1,4 +1,8 @@
+import package1.*;
+import package2.Rectangle;
+
 import java.io.IOException;
+
 
 public class Main {
     public static void main(String[] args) throws IOException {
@@ -10,7 +14,7 @@ public class Main {
         System.out.printf("\nChaine renverser: " + renverseChaine);
 
         //Pyamide
-        System.out.printf("\npackage1.Pyramide:\n");
+        System.out.printf("\npackage1.package1.Pyramide:\n");
         Pyramide.pyramide('x',10);
 
         //Nombre Aleatoire
@@ -32,5 +36,8 @@ public class Main {
         //SommeNombre
         System.out.printf("\nSomme de nombre\n");
        SommeDe1000.somme();
+
+        System.out.println("\nRectangle\n");
+        new Rectangle(3,5).display();
     }
 }

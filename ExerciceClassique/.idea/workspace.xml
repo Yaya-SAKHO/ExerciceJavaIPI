@@ -12,13 +12,17 @@
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ExerciceClassique.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NombreAleatoire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NombreDeMot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NombreMotDansFichier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pyramide.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RenverserChaine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SauvegarderPhrase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SommeDe1000.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/package1/NombreAleatoire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/package1/NombreDeMot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/package1/NombreMotDansFichier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/package1/Pyramide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/package1/RenverserChaine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/package1/SauvegarderPhrase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/package1/SommeDe1000.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/package2/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/package2/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/package2/Utilisateur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/package2/Voiture.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +54,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Lenovo/Desktop/ProjetGit/ExerciceClassique",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -66,7 +71,8 @@
       <option name="presentableId" value="Default" />
       <updated>1681499734530</updated>
       <workItem from="1681499735734" duration="600000" />
-      <workItem from="1681500572999" duration="1888000" />
+      <workItem from="1681500572999" duration="2445000" />
+      <workItem from="1681503230857" duration="771000" />
     </task>
     <servers />
   </component>

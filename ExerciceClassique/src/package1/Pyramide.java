@@ -1,3 +1,5 @@
+package package1;
+
 public class Pyramide {
 
     public static void pyramide(char caractere, int hauteur) {

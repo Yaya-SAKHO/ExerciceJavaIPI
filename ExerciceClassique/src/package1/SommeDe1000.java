@@ -1,3 +1,5 @@
+package package1;
+
 public class SommeDe1000 {
 
     public static void somme() {
