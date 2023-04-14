@@ -13,6 +13,7 @@
       <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/NombreAleatoire.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/NombreDeMot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pyramide.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/RenverserChaine.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1681499734530</updated>
       <workItem from="1681499735734" duration="600000" />
-      <workItem from="1681500572999" duration="959000" />
+      <workItem from="1681500572999" duration="1145000" />
     </task>
     <servers />
   </component>
