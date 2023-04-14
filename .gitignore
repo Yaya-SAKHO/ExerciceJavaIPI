@@ -1,0 +1,37 @@
+### IntelliJ IDEA ###
+ExerciceSpring/out/
+!**/ExerciceClassique/src/main/**/out/
+!**/ExerciceClassique/src/test/**/out/
+
+
+ExerciceSpring/HELP.md
+.ExerciceSpring/gradle
+build/
+!ExerciceSpring/gradle/wrapper/gradle-wrapper.jar
+!**/ExerciceSpring/src/main/**/build/
+!**/ExerciceSpring/src/test/**/build/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.ExerciceClassique/vscode/
+
+### Mac OS ###
+.ExerciceClassique/DS_Store
